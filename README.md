@@ -1,3 +1,11 @@
+# Airbnb-Clone
+## Live Demo https://airbnb-clone-eb983.web.app/
+
+This is a clone app develop with react and it has cool features like "seach near by" and "date calender" (which has alot of cool logics developed into it).
+The app is very responsive and uses lots function components provided by Reactjs. This is deployed using firebase
+
+![Airbnb Clone](airbnb-clone.png?raw=true "Airbnb Clone")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
